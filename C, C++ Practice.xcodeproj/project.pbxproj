@@ -25,6 +25,20 @@
 /* Begin PBXFileReference section */
 		BD01034C23D4338A00BC4626 /* C, C++ Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C, C++ Practice"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD01034F23D4338A00BC4626 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		BD01035623D433CA00BC4626 /* 12. Sequential Search, Binary Search */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "12. Sequential Search, Binary Search"; sourceTree = "<group>"; };
+		BD01035723D433CA00BC4626 /* 2. Dynamic Memory Allocation */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "2. Dynamic Memory Allocation"; sourceTree = "<group>"; };
+		BD01035823D433CA00BC4626 /* 1. Character */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "1. Character"; sourceTree = "<group>"; };
+		BD01035923D433CA00BC4626 /* 10. Binary Tree */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "10. Binary Tree"; sourceTree = "<group>"; };
+		BD01035A23D433CA00BC4626 /* 6. Stack */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "6. Stack"; sourceTree = "<group>"; };
+		BD01035B23D433CA00BC4626 /* 7. Calculator using Stack */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "7. Calculator using Stack"; sourceTree = "<group>"; };
+		BD01035C23D433CA00BC4626 /* 14. Depth First Search */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "14. Depth First Search"; sourceTree = "<group>"; };
+		BD01035D23D433CA00BC4626 /* 9. Sort */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "9. Sort"; sourceTree = "<group>"; };
+		BD01035E23D433CA00BC4626 /* 5. Doubly Linked List */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "5. Doubly Linked List"; sourceTree = "<group>"; };
+		BD01035F23D433CA00BC4626 /* 3. Pointer */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "3. Pointer"; sourceTree = "<group>"; };
+		BD01036023D433CB00BC4626 /* 4. List */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "4. List"; sourceTree = "<group>"; };
+		BD01036123D433CB00BC4626 /* 13. Graph */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "13. Graph"; sourceTree = "<group>"; };
+		BD01036223D433CB00BC4626 /* 11. Priority Queue */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "11. Priority Queue"; sourceTree = "<group>"; };
+		BD01036323D433CB00BC4626 /* 8. Queue */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "8. Queue"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +71,20 @@
 		BD01034E23D4338A00BC4626 /* C, C++ Practice */ = {
 			isa = PBXGroup;
 			children = (
+				BD01035823D433CA00BC4626 /* 1. Character */,
+				BD01035723D433CA00BC4626 /* 2. Dynamic Memory Allocation */,
+				BD01035F23D433CA00BC4626 /* 3. Pointer */,
+				BD01036023D433CB00BC4626 /* 4. List */,
+				BD01035E23D433CA00BC4626 /* 5. Doubly Linked List */,
+				BD01035A23D433CA00BC4626 /* 6. Stack */,
+				BD01035B23D433CA00BC4626 /* 7. Calculator using Stack */,
+				BD01036323D433CB00BC4626 /* 8. Queue */,
+				BD01035D23D433CA00BC4626 /* 9. Sort */,
+				BD01035923D433CA00BC4626 /* 10. Binary Tree */,
+				BD01036223D433CB00BC4626 /* 11. Priority Queue */,
+				BD01035623D433CA00BC4626 /* 12. Sequential Search, Binary Search */,
+				BD01036123D433CB00BC4626 /* 13. Graph */,
+				BD01035C23D433CA00BC4626 /* 14. Depth First Search */,
 				BD01034F23D4338A00BC4626 /* main.cpp */,
 			);
 			path = "C, C++ Practice";
